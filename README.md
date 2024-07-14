@@ -55,5 +55,8 @@ Data proccess Successfull in topic
 [Uploading kafka_data.txt…]Key: request, Value: {"panNumber":"ABC","mobileNumber":1234,"otp":65566}
 ()
 
+# Kafka topic
+
+![image](https://github.com/user-attachments/assets/628a12bf-214a-4406-8aa3-f8901c457a34)
 
 
